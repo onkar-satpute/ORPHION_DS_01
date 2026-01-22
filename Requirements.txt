@@ -1,0 +1,16 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+
+
+
+### Explanation of Dependencies:
+
+*pandas: Used for data manipulation, cleaning, and DataFrame operations (e.g., `pd.read_csv`, `df.dropna`).
+*numpy: Used for numerical operations.
+*matplotlib**: Used for creating static visualizations and plotting (e.g., `plt.figure`, `plt.title`).
+*seaborn**: High-level interface for drawing attractive and informative statistical graphics (e.g., `sns.barplot`).
+*jupyter**: Required to run the `.ipynb` notebook file itself.
