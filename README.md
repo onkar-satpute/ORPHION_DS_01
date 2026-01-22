@@ -75,10 +75,12 @@ The goal is to transform raw, messy data into meaningful insights that help unde
 ## 📁 Project Structure
 
 ```
-📦 World-Bank-Population-Analysis
- ┣ 📜 World Bank Population Data Analysis (2022).ipynb
- ┣ 📜 README.md
- ┗ 📊 cleaned_population_data.csv (optional output)
+├── data set/ 
+│   ├── API_SP.POP.TOTL_DS2_en_csv_v2_174326.csv
+│   └── Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_174326.csv
+├── World Bank Population Data Analysis (2022).ipynb
+├── README.md
+└── requirements.txt
 ```
 
 ---
