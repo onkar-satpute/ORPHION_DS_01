@@ -90,7 +90,7 @@ The goal is to transform raw, messy data into meaningful insights that help unde
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/world-bank-population-analysis.git
+   git clone https://github.com/onkar-satpute/ORPHION_DS_01.git
    ```
 2. Open Jupyter Notebook
 
